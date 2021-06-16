@@ -1,1 +1,1 @@
-java --jar backend.jar
+java --jar target/backend.jar
