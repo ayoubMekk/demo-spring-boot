@@ -19,6 +19,6 @@ class DemoController {
 
 	@GetMapping("/")
 	public  String  test() {
-		return "Working  v1.5..";
+		return "Working  v1.6..";
 	}
 }
